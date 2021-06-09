@@ -1,4 +1,4 @@
-// Write a program in C++ to display the operation of pre and post increment and decrement.
+//   
 
 #include<iostream>
 using namespace std;
